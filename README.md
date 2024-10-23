@@ -1,1 +1,1 @@
-# belly-button-challenge
+The main code that I wrote for this project is in static folder, then js folder, and the app.js file. This is what index.html draws its functions from. There is also a website for this project where you can see the results of my project. The website is https://bthomasw.github.io/belly-button-challenge/
